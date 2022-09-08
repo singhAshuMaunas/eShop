@@ -1,4 +1,4 @@
-import "./styles.css";
+
 import Home from "./Home";
 import Header from "./Header.js";
 import Checkout from "./Checkout";
